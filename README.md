@@ -6,5 +6,5 @@ Cia esu paplatines tris sarasus, vienas yra vilniaus rajono, kitas - lietuvos, o
 
 Sis darbas uztruko labai trumpai todel, kad yra paklaida siokia tokia garantuoju ir visa tai turetumet priimt with a grain of salt.
 
-*Lietuvos* - tiesiog sumesti visu rajonu sauktiniai
-*Galutinis* - pagal mane surikiuoti duomenys nusprest kaip aukstai esat sarase
+Lietuvos - tiesiog sumesti visu rajonu sauktiniai
+Galutinis - pagal mane surikiuoti duomenys nusprest kaip aukstai esat sarase
