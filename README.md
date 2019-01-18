@@ -5,3 +5,6 @@ Kadangi siais metais valstybe nusprende labai gudriai nebeidet excel failo su vi
 Cia esu paplatines tris sarasus, vienas yra vilniaus rajono, kitas - lietuvos, o paskutinis pagal kelis kriterijus surikiuotas kad galima butu nuspet kaip aukstai pagal tikraji sarasa esat.
 
 Sis darbas uztruko labai trumpai todel, kad yra paklaida siokia tokia garantuoju ir visa tai turetumet priimt with a grain of salt.
+
+# Lietuvos - tiesiog sumesti visu rajonu sauktiniai
+# Galutinis* - pagal mane surikiuoti duomenys nusprest kaip aukstai esat sarase
